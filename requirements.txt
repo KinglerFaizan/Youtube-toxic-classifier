@@ -1,0 +1,6 @@
+streamlit
+transformers
+tensorflow
+pandas
+numpy
+google-api-python-client
